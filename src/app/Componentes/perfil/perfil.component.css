@@ -1,0 +1,47 @@
+.row{
+    margin: 30px auto;
+    width: 80%;
+    max-width: 1000px;
+}
+#pH{
+    align-content: center;
+    text-align: center;
+    width: 100%;
+    max-width: 400px;
+    aspect-ratio: 1 / 1;
+    border-radius: 10px;
+    background-color: #d8d8d8;
+    font-size: 1.2em;
+    color: #666;
+    margin-right: 30px;
+}
+#uN{
+    font-size: 2.5em;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+#nR{
+    font-size: 1em;
+    color: #e58ea8;
+    font-style: italic;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+#etiqueta{
+    padding: 5px 10px;
+    margin: 0.5%;
+    border-radius: 20px;
+    background-color: #ffe6f0;
+    color: #e58ea8;
+    font-size: 0.9em;
+    font-weight: bold;
+    text-align: center;
+}
+#etiqueta:hover{
+    background-color: #c34879;
+    color: #ffe6f0;
+}
+
+#qpedo{
+    border: 1px solid magenta;
+}
